@@ -1,0 +1,7 @@
+name: ShiftF
+version: '${project.version}'
+main: com.thewgen.shiftf.ShiftF
+api-version: 1.19
+authors: [ Anson ]
+description: Open Menu From Shift + F
+website: www.thewgen.com
